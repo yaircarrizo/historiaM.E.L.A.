@@ -1,0 +1,11 @@
+CARPETA IMG
+Pongan acá los archivos con estos nombres exactos (sin cambiar mayúsculas ni guiones).
+Extensiones aceptadas: .jpg, .png o .webp.
+Si un archivo falta, esa parte de la presentación se saltea sola.
+
+- reforma-1918   ->   Foto de estudiantes de la Reforma, Córdoba 1918 (sitio reformadel18.unc.edu.ar o Wikimedia Commons)
+- reforma-continental   ->   Imagen de un congreso o un afiche estudiantil de los años 20 (opcional)
+- chile-pinguinos   ->   Foto de secundarios chilenos con uniforme, 2006 (Memoria Chilena / Wikimedia Commons)
+- carteles   ->   Foto de carteles de 1968 (México) o de las marchas de 2011 (Chile)
+- tlatelolco   ->   Foto de la Marcha del Silencio (13/9/1968) o de la Plaza de las Tres Culturas (Wikimedia Commons)
+- lapices   ->   Foto de una marcha de secundarios el 16 de septiembre o del mural de la Comisión Provincial por la Memoria

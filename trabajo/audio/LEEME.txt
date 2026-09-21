@@ -1,0 +1,7 @@
+CARPETA AUDIO
+Pongan acá los archivos con estos nombres exactos (sin cambiar mayúsculas ni guiones).
+Extensiones aceptadas: .mp3, .m4a, .ogg o .wav.
+Si un archivo falta, esa parte de la presentación se saltea sola.
+
+- vandre   ->   Fragmento de 20–30 s de «Pra não dizer que não falei das flores» (Geraldo Vandré, 1968)
+- prisioneros   ->   Fragmento de 20–30 s de «El baile de los que sobran» (Los Prisioneros, 1986)
