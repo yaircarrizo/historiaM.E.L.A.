@@ -1,8 +1,0 @@
-CARPETA VIDEO
-Pongan acá los archivos con estos nombres exactos (sin cambiar mayúsculas ni guiones).
-Extensiones aceptadas: .mp4 o .webm.
-Si un archivo falta, esa parte de la presentación se saltea sola.
-
-- chile-2011   ->   Video corto (30–60 s) del flashmob «Thriller» o de las 1.800 horas, 2011
-- el-grito   ->   Fragmento del documental «El Grito» (1968, Leobardo López Aretxandieta): 30–60 s
-- la-noche-de-los-lapices   ->   Fragmento de 30–60 s de «La noche de los lápices» (1986) o de un acto del 16/9
